@@ -1,0 +1,43 @@
+.root {
+    -fx-background-color: #1e2a3a;
+    -fx-font-family: "Segoe UI", "Helvetica", sans-serif;
+}
+
+.label, .radio-button {
+    -fx-text-fill: #e8eef5;
+}
+
+.estado {
+    -fx-font-size: 22px;
+    -fx-font-weight: bold;
+}
+
+.marcador {
+    -fx-font-size: 14px;
+}
+
+.casilla {
+    -fx-pref-width: 95px;
+    -fx-pref-height: 95px;
+    -fx-font-size: 40px;
+    -fx-font-weight: bold;
+    -fx-background-color: #2f3f55;
+    -fx-background-radius: 8px;
+    -fx-cursor: hand;
+}
+
+.casilla:hover {
+    -fx-background-color: #3b4f6b;
+}
+
+.ficha-x {
+    -fx-text-fill: #4fc3f7;
+}
+
+.ficha-o {
+    -fx-text-fill: #ffb74d;
+}
+
+.button {
+    -fx-cursor: hand;
+}
