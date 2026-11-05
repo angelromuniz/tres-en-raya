@@ -1,5 +1,7 @@
 # Tres en raya
 
+![Portada](docs/portada.png)
+
 El clásico tres en raya con interfaz gráfica hecha en JavaFX. Proyecto del módulo de Programación de 1.º de DAM.
 
 ## Funcionalidades
